@@ -1,6 +1,6 @@
 # HRMS Web App
 
-This project is a web application for HR Management System (HRMS). It is built with React and other modern web technologies.
+HRMS and staff attendance project that I set up to serve Thunder Security and Protection Company in Jordan, then they canceled me without prior notice. That's why I decided to make part of it open source.
 
 ## Installation
 
@@ -27,7 +27,7 @@ This project is a web application for HR Management System (HRMS). It is built w
 
 5. Open your browser and visit http://localhost:3000 to view the app.
 
-##Features
+## Features
 
 
     Authentication and Authorization
@@ -37,7 +37,7 @@ This project is a web application for HR Management System (HRMS). It is built w
     Performance management - not finished
     Payroll management - not finished
 
-##Technologies Used
+## Technologies Used
 
     React
     React Router
@@ -50,6 +50,6 @@ This project is a web application for HR Management System (HRMS). It is built w
     Mapbox-gl
     and Others
 
-##Acknowledgements
+## Acknowledgements
 
 This project was built using the Minimal UI Kit template. We would like to express our gratitude for their contribution to this project.
